@@ -1,0 +1,5 @@
+/build/
+/dist/
+/nbproject/private/
+
+#ignorando archivos compilados, generados autom y configuraciones locales
