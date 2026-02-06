@@ -21,7 +21,7 @@ public class ejercicio4 {
         while(i <= 100)
         {
             System.out.println(i);
-            i ++;
+            i +=2;
         }
     }
     
