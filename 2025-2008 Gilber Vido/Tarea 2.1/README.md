@@ -17,20 +17,33 @@ pequeño sistema de decisiones para hacerlo más dinámico.
 El proyecto cuenta con 2 clases, una llamada "Tv" y otra llamada "Prueba".
 
 El de Tv tiene atributos como:
+
 . Marca
+
 . Pulgadas
-. Volumen
+
+. Volumen 
+
 . Precio
+
 Y metodos como: 
+
 . encender()
+
 . apagar()
+
 . subirVolumen()
+
 . bajarVolumen()
 
 Mientras que el de prueba es donde todo sucede como:
+
 . Se crea 3 Tv
+
 . Se le asignan valores manualmente
+
 . Se muestran estas caracteristicas en pantalla
+
 . Se le pergunta al usuario que desea hacer con cada uno
 
 -- Como ejecutarlo
