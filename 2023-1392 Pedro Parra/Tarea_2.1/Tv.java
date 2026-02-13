@@ -10,7 +10,7 @@ package com.mycompany.prueba;
  */
 public class Tv {
 
-    // Atributos
+   
     String marca;
     int pulgadas;
     boolean encendido;
@@ -37,3 +37,4 @@ public class Tv {
         System.out.println("Bajando el volumen...");
     }
 }
+
