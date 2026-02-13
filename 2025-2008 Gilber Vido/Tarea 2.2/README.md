@@ -7,6 +7,7 @@ operaciones matemáticas con diferente cantidad de números.
 El programa está dividido en dos clases:
 
 . Main: donde se ejecutan las pruebas.
+
 . Calculadora: donde están definidos los métodos matemáticos.
 
 -- Funcionamiento del programa
@@ -19,7 +20,7 @@ La clase Calculadora tiene métodos para:
 
 . Multiplicar
 
-Dividir (solo con 2 parámetros)
+. Dividir (solo con 2 parámetros)
 
 Estos métodos están sobrecargados para aceptar:
 
